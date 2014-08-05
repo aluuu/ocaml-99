@@ -1,4 +1,6 @@
 *.cmo
 *.cmx
 *.cmi
+*.out
+*.cache
 main
